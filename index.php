@@ -7,6 +7,6 @@
 </head>
 <body>
     <h1>Github Desktop</h1>
-    <p>Je suis l'etudiant 2 </p>
+    <p>Je suis l'etudiant 2! </p>
 </body>
 </html>
